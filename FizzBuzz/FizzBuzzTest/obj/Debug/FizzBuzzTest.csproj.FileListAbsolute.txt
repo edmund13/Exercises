@@ -1,0 +1,5 @@
+C:\GitWorkTrees\FizzBuzz\FizzBuzzTest\bin\Debug\FizzBuzzTest.dll
+C:\GitWorkTrees\FizzBuzz\FizzBuzzTest\bin\Debug\FizzBuzzTest.pdb
+C:\GitWorkTrees\FizzBuzz\FizzBuzzTest\obj\Debug\FizzBuzzTest.csprojResolveAssemblyReference.cache
+C:\GitWorkTrees\FizzBuzz\FizzBuzzTest\obj\Debug\FizzBuzzTest.dll
+C:\GitWorkTrees\FizzBuzz\FizzBuzzTest\obj\Debug\FizzBuzzTest.pdb

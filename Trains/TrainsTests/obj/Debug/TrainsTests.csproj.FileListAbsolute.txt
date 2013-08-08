@@ -1,0 +1,7 @@
+C:\GitWorkTrees\Trains\TrainsTests\bin\Debug\TrainsTests.dll
+C:\GitWorkTrees\Trains\TrainsTests\bin\Debug\TrainsTests.pdb
+C:\GitWorkTrees\Trains\TrainsTests\bin\Debug\Trains.dll
+C:\GitWorkTrees\Trains\TrainsTests\bin\Debug\Trains.pdb
+C:\GitWorkTrees\Trains\TrainsTests\obj\Debug\TrainsTests.csprojResolveAssemblyReference.cache
+C:\GitWorkTrees\Trains\TrainsTests\obj\Debug\TrainsTests.dll
+C:\GitWorkTrees\Trains\TrainsTests\obj\Debug\TrainsTests.pdb
