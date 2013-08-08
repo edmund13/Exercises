@@ -1,0 +1,5 @@
+C:\GitWorkTrees\SupermarketPrice\SupermarketPriceTests\bin\Debug\SupermarketPriceTests.dll
+C:\GitWorkTrees\SupermarketPrice\SupermarketPriceTests\bin\Debug\SupermarketPriceTests.pdb
+C:\GitWorkTrees\SupermarketPrice\SupermarketPriceTests\obj\Debug\SupermarketPriceTests.csprojResolveAssemblyReference.cache
+C:\GitWorkTrees\SupermarketPrice\SupermarketPriceTests\obj\Debug\SupermarketPriceTests.dll
+C:\GitWorkTrees\SupermarketPrice\SupermarketPriceTests\obj\Debug\SupermarketPriceTests.pdb
