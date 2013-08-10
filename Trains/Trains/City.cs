@@ -86,7 +86,7 @@ namespace Trains
 ;
                         if ((!AlreadyExistsInJourney(curentRoute, nextTrack) && !useDistance) || allowLooping)
                         {
-                            traversableRoutes.Routes.Add(GetRoute(curentRoute, nextTrack));
+                            traversableRoutes.Routes.Add(CreateNewRoute(curentRoute, nextTrack));
                         }
                     }
                 }
@@ -95,7 +95,7 @@ namespace Trains
             return traversableRoutes;
         }
 
-        private Route GetRoute(Route curentRoute, Track nextTrack)
+        private Route CreateNewRoute(Route curentRoute, Track nextTrack)
         {
             Route newRoute = new Route();
 

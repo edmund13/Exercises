@@ -7,3 +7,8 @@ C:\GitWorkTrees\Trains\Trains\bin\Debug\Trains.pdb
 C:\GitWorkTrees\Trains\Trains\obj\Debug\Trains.dll
 C:\GitWorkTrees\Trains\Trains\obj\Debug\Trains.pdb
 C:\GitWorkTrees\Trains\Trains\obj\Debug\Trains.csprojResolveAssemblyReference.cache
+C:\GitWorkTrees\Exercises\Trains\Trains\bin\Debug\Trains.dll
+C:\GitWorkTrees\Exercises\Trains\Trains\bin\Debug\Trains.pdb
+C:\GitWorkTrees\Exercises\Trains\Trains\obj\Debug\Trains.csprojResolveAssemblyReference.cache
+C:\GitWorkTrees\Exercises\Trains\Trains\obj\Debug\Trains.dll
+C:\GitWorkTrees\Exercises\Trains\Trains\obj\Debug\Trains.pdb

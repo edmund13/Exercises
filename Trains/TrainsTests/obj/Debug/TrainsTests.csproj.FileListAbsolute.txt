@@ -5,3 +5,10 @@ C:\GitWorkTrees\Trains\TrainsTests\bin\Debug\Trains.pdb
 C:\GitWorkTrees\Trains\TrainsTests\obj\Debug\TrainsTests.csprojResolveAssemblyReference.cache
 C:\GitWorkTrees\Trains\TrainsTests\obj\Debug\TrainsTests.dll
 C:\GitWorkTrees\Trains\TrainsTests\obj\Debug\TrainsTests.pdb
+C:\GitWorkTrees\Exercises\Trains\TrainsTests\bin\Debug\TrainsTests.dll
+C:\GitWorkTrees\Exercises\Trains\TrainsTests\bin\Debug\TrainsTests.pdb
+C:\GitWorkTrees\Exercises\Trains\TrainsTests\bin\Debug\Trains.dll
+C:\GitWorkTrees\Exercises\Trains\TrainsTests\bin\Debug\Trains.pdb
+C:\GitWorkTrees\Exercises\Trains\TrainsTests\obj\Debug\TrainsTests.csprojResolveAssemblyReference.cache
+C:\GitWorkTrees\Exercises\Trains\TrainsTests\obj\Debug\TrainsTests.dll
+C:\GitWorkTrees\Exercises\Trains\TrainsTests\obj\Debug\TrainsTests.pdb
