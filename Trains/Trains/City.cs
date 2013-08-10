@@ -31,15 +31,15 @@ namespace Trains
         {
             SetupChildren();
 
-            TraversedRoutes journeysTraversed = new TraversedRoutes();
+            TraversedRoutes routesTraversed = new TraversedRoutes();
 
-            TraversedRoutes allFoundJourneys = GetAllTraversableRoutes(startNode, maximumDistance, numberOfStops);
+            TraversedRoutes allFoundRoutes = GetAllTraversableRoutes(startNode, maximumDistance, numberOfStops);
 
-            IList<Route> validJourneys = allFoundJourneys.Routes.Where(x => x.Tracks.Last().endNode == endNode).ToList();
+            IList<Route> validRoutes = allFoundRoutes.Routes.Where(x => x.Tracks.Last().endNode == endNode).ToList();
 
-            journeysTraversed.Routes = validJourneys;
+            routesTraversed.Routes = validRoutes;
 
-            return journeysTraversed;
+            return routesTraversed;
         }
 
         private TraversedRoutes GetAllTraversableRoutes(char startNode, int maxDistance, int maxNumberOfStops)

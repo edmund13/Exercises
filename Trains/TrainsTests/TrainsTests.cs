@@ -180,16 +180,6 @@ namespace TrainsTests
             Assert.AreEqual(5, foundRoutes.Count);
         }
 
-        
-
-       
-
-      
-
-        
-
-        
-
         [TestMethod]
         public void CreateTracks()
         {
