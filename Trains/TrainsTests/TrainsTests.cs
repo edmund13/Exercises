@@ -12,7 +12,8 @@ namespace TrainsTests
         
         /* STRUCTURE
          * --------
-         * Each Alphabetic Letter (capsLock) Represents a node/City
+         * A City is made up of towns
+         * Each Alphabet Letter (UPPERCASE) Represents a Node/Town
          * Two nodes joined together e.g AB represent a Track
          * Two or more tracks joined together are called a Route e.g ABCD
          * Two or More Different or alternate routes are called TraversedRoutes e.g ABC and ABE
@@ -22,13 +23,13 @@ namespace TrainsTests
         private City _city;
 
         [TestInitialize]
-        public void SetUpTown()
+        public void SetUpCity()
         {
             _city = new City();
 
-            foreach (Track route in GetTracks())
+            foreach (Track track in GetTracks())
             {
-                _city.AddTrack(route);
+                _city.AddTrack(track);
             }
         }
 
